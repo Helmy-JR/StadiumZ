@@ -1,7 +1,7 @@
 <img align="right" src="https://media.tenor.com/dXiMy6lJVmwAAAAC/champions-liverpool.gif?raw=true" width=30%>
 
 # *StadiumZ*
-<hr>
+
 
 ###  StadiumZ is a static website about some of the stadiums of the Biggest Teams in Europe .
 
