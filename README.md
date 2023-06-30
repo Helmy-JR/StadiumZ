@@ -3,7 +3,7 @@
 # *StadiumZ*
 
 
-###  StadiumZ is a static website about some of the stadiums of the Biggest Teams in Europe .
+###  StadiumZ is a website about some of the stadiums of the Biggest Teams in Europe .
 
 ###  StadiumZ was mad by Html , CSS , SASS , JavaScript and Github for deploying .
 
